@@ -1,24 +1,55 @@
-# README
+# Active Records Model-Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project was used to get our feets wet working on database model using Rails powerful ORM called Active Records. In this project, a user can create a post and other users can comment on the same post.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
+- Ruby
 
-* System dependencies
+## Getting Started
 
-* Configuration
+To get a local copy of the repository please run the following commands on your terminal:
 
-* Database creation
+$ cd  folder-name
 
-* Database initialization
+~~~bash
+git clone https://github.com/elisha2kyakpo1/micro-reddit
+$ cd micro-reddit
+$ bundle install 
+$ yarn install --check-files
+~~~
 
-* How to run the test suite
+## Authors
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Elisha Kyakopo**
 
-* Deployment instructions
+- GitHub: [elisha2kyakpo1](https://github.com/elisha2kyakpo1)
+- LinkedIn: [Elisha Kyakopo](https://www.linkedin.com/in/elisha-kyakopo/)
 
-* ...
+👤 **Azeez Ibrahim**
+
+- GitHub: [@githubhandle](https://github.com/kunmi02)
+- Twitter: [@twitterhandle](https://twitter.com/akinkunmi006)
+- LinkedIn: [LinkedIn](https://linkedin.com/akinkunmi006)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## **Contributing**
+
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project
+- Cloning the project to your local machine
+- cd into the project directory
+- Run git checkout -b your-branch-name
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+## Show your support
+
+Give a ⭐️ if you like this project
+
